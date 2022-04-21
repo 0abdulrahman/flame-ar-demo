@@ -1770,6 +1770,7 @@ header .wrapper nav label {
         flex-direction: column-reverse;
         justify-content: center;
         align-items: center;
+        border-radius: 20px;
     }
 
 }
