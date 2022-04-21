@@ -1858,7 +1858,7 @@ header .wrapper nav label {
 
 .status {
     background-image: url(Images/wallapaper2.jpg);
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: #777;
     position: relative;
     z-index: 0;
 
@@ -1994,6 +1994,7 @@ header .wrapper nav label {
     flex-basis: 50%;
     text-align: center;
     background-image: url(Images/wallpaper3.jpg);
+    background-color: var(--mainColor);
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
